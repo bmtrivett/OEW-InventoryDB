@@ -1,0 +1,7 @@
+[ODBC]
+DRIVER=MySQL ODBC 5.3 ANSI Driver
+UID=user
+DFLT_BIGINT_BIND_STR=1
+PORT=13306
+DATABASE=inventorydb_backend
+SERVER=home.btriv.com

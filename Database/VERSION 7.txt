@@ -1,0 +1,26 @@
+Version 7
+Made modifications to publish it to the public safely
+It links to my home MySQL server for testing
+
+Version 6
+Added feature for Jeremy - move with arrow keys in Add [Un]Processed
+
+Version 5
+Bug fixes
+
+Version 4
+Major changes to report generator. Much faster and lots of fixes.
+Added pricing history in database for purchased(unprocessed) materials.
+
+Version 3
+"Add Processed"+"Add Load Sheet" now show the id number associated with each item.
+Customer report generator is re-done and supports date ranges now.
+Small changes were made to the invoice generator.
+
+Add
+Version 2
+Added "Date Added" to unpm, and pm
+Added filters for only current day "date added" on "load sheets" and "add pm"
+Added Sold Items Invoice Generator
+Automatically sorts Types in combo boxes now
+Misc bug fixes
